@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Accept App.iml" filepath="$PROJECT_DIR$/Accept App.iml" group="Accept App" />
+      <module fileurl="file://$PROJECT_DIR$/acceptsdk/acceptsdk.iml" filepath="$PROJECT_DIR$/acceptsdk/acceptsdk.iml" group="Accept App/acceptsdk" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Accept App/app" />
+    </modules>
+  </component>
+</project>
